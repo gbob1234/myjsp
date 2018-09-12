@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-안녕안녕
+안녕안녕d
+<%out.println("hello"); %>
 </body>
 </html>
